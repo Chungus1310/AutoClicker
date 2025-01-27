@@ -2,7 +2,8 @@
 
 A modern, feature-rich autoclicker with a sleek interface and powerful customization options. Perfect for games, testing, or any situation where you need automated clicking!
 
-![AutoClicker Interface](screenshot.png)
+![AutoClicker Interface](https://github.com/user-attachments/assets/f9e0df2f-50f4-48e4-b731-995a9f886d53)
+
 
 ## ✨ Features
 
